@@ -33,7 +33,7 @@
     <dependency>
       <groupId>uk.ac.york.mondo.integration</groupId>
       <artifactId>artemis</artifactId>
-      <version>1.0.0-201510051218</version>
+      <version>1.0.0-201510051803</version>
       <optional>false</optional>
     </dependency>
   </dependencies>
