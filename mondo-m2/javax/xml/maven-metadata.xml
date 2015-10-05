@@ -3,10 +3,10 @@
   <groupId>javax</groupId>
   <artifactId>xml</artifactId>
   <versioning>
-    <release>1.3.4</release>
+    <release>1.3.4-v201005080400</release>
     <versions>
-      <version>1.3.4</version>
+      <version>1.3.4-v201005080400</version>
     </versions>
-    <lastUpdated>20151005094937</lastUpdated>
+    <lastUpdated>20151005120144</lastUpdated>
   </versioning>
 </metadata>

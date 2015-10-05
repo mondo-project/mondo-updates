@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>uk.ac.york.mondo.integration</groupId>
+  <artifactId>artemis</artifactId>
+  <version>1.0.0-201510051218</version>
+  <name>Apache Artemis Integration for remote notifications -- server side</name>
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.core</groupId>
+      <artifactId>runtime</artifactId>
+      <version>[0,)</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>api</artifactId>
+      <version>[1.7.0,2.0.0)</version>
+      <optional>false</optional>
+    </dependency>
+  </dependencies>
+</project>
