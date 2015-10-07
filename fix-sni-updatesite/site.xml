@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.11.0.201509291511.jar" id="org.eclipse.ecf.filetransfer.httpclient4.feature" version="3.11.0.201509291511"/>
-   <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.0.0.201509291511.jar" id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" version="1.0.0.201509291511"/>
-</site>
