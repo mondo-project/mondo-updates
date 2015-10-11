@@ -3,10 +3,10 @@
   <groupId>org.hawk</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.0.0-201510091538</release>
+    <release>1.0.0-201510112149</release>
     <versions>
-      <version>1.0.0-201510091538</version>
+      <version>1.0.0-201510112149</version>
     </versions>
-    <lastUpdated>20151009172726</lastUpdated>
+    <lastUpdated>20151011210936</lastUpdated>
   </versioning>
 </metadata>
