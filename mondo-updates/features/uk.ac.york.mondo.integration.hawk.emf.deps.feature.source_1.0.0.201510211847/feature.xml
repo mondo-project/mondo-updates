@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="uk.ac.york.mondo.integration.hawk.emf.deps.feature.source" version="1.0.0.201510211847" label="Remote Hawk EMF Driver Dependencies Feature" provider-name="University of York"     >
+	<description url="http://www.example.com/description">
+		[Enter Feature Description here.]
+	</description>
+	<copyright url="http://www.example.com/copyright">
+		[Enter Copyright Description here.]
+	</copyright>
+	<license url="http://www.example.com/license">
+		[Enter License Description here.]
+	</license>
+	<plugin id="uk.ac.york.mondo.integration.api.source" version="1.0.0.201510211847"     unpack="false"/>
+	<plugin id="org.hawk.emfresource.source" version="1.0.0.201510211847"     unpack="false"/>
+	<plugin id="org.hawk.core.source" version="1.0.0.201510211847"     unpack="false"/>
+	<plugin id="org.hawk.graph.source" version="1.0.0.201510211847"     unpack="false"/>
+	<plugin id="org.hawk.core.dependencies.source" version="1.0.0.201510211847"     unpack="false"/>
+</feature>

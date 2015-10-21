@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.hawk</groupId>
+  <artifactId>emfresource</artifactId>
+  <version>1.0.0-201510211847</version>
+  <name>Local Hawk EMF resource</name>
+  <properties>
+    <eclipse.unpack>true</eclipse.unpack>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.emf</groupId>
+      <artifactId>ecore</artifactId>
+      <version>[2.10.0,3.0.0)</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.hawk</groupId>
+      <artifactId>core</artifactId>
+      <version>1.0.0-201510211847</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.hawk</groupId>
+      <artifactId>graph</artifactId>
+      <version>1.0.0-201510211847</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>api</artifactId>
+      <version>[1.7.0,2.0.0)</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>com.google</groupId>
+      <artifactId>guava</artifactId>
+      <version>[15.0.0,16.0.0)</version>
+      <optional>false</optional>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.hawk</groupId>
+  <artifactId>graph</artifactId>
+  <version>1.0.0-201510211847</version>
+  <name>Hawk Graph Plugin</name>
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.core</groupId>
+      <artifactId>runtime</artifactId>
+      <version>[0,)</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.hawk</groupId>
+      <artifactId>core</artifactId>
+      <version>1.0.0-201510211847</version>
+      <optional>false</optional>
+    </dependency>
+  </dependencies>
+</project>
